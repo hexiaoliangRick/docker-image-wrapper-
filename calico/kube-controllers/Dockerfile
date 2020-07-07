@@ -1,2 +1,2 @@
-FROM calico/kube-controllers:v3.9.5
+FROM calico/kube-controllers:v3.9.6
 MAINTAINER heqingbao <qingbao.ho@gmail.com>
